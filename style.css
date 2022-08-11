@@ -24,10 +24,14 @@
     color: rgb(202, 33, 102);
 }
 
-.section-1-content-h3 {
-    font-weight: 300;
+.section-content-h3 {
+    font-weight: 400;
     margin-bottom: 0;
+}
 
+.section-content-h2 {
+    font-weight: 400;
+    margin-bottom: 0;
 }
 
 .section-1-img-container {
@@ -51,9 +55,18 @@
     background-color: rgb(0, 0, 0);
 }
 
+.section-5-a {
+    background-color: rgb(251, 251, 253);
+}
+
 .section-5-b {
     background-color: rgb(0, 0, 0);
 }
+
+.section-6-a {
+    background-color: rgb(251, 251, 253);
+}
+
 
 .footer-content {
     max-width: 1000px;
