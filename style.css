@@ -67,6 +67,9 @@
     background-color: rgb(251, 251, 253);
 }
 
+.footer-bg {
+    background-color: rgb(245, 245, 247);
+}
 
 .footer-content {
     max-width: 1000px;
